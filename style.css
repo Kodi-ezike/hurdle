@@ -358,13 +358,16 @@ a{
 .class{
     display: flex;
     flex-direction: column-reverse;
-    margin: 2rem;
+    margin-top: 2rem;
 
 }
 .class2{
     display: flex;
     flex-direction: column;
-    margin: 2rem;
+    margin:auto;
+}
+.pic2{
+    margin-top: 2rem;
 }
 .tab-grow, .tab-users{
     display: flex;
